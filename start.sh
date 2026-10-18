@@ -42,4 +42,4 @@ websockify \
 
 # Start Electron
 cd /app
-npm start -- --no-sandbox
+npm start
